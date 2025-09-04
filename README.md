@@ -64,8 +64,8 @@ Then connect via browser / netcat depending on the challenge instructions.
 ## 📬 Contact
 - 👨‍🎓 Bachelor student in Computer Engineering @ Politecnico di Torino  
 - 🔐 Member of **Pwnthem0le** CTF team  
-- 🐙 GitHub: [Depp1135](https://github.com/Depp1135)  
-- 💼 LinkedIn: *[add your LinkedIn link here]*  
+- 🐙 GitHub: [Depp1135](https://github.com/thedeppside)  
+- 💼 LinkedIn: *[Antonio Galasso](www.linkedin.com/in/antonio-galasso-45394b35b)*  
 
 ---
 
@@ -76,4 +76,4 @@ flag{th1s_r3po_1s_my_p3rson4l_cTF_f4ct0ry}
 
 ---
 
-> _“The computer was born to solve problems that did not exist before.”_
+> _“Hope you'll have fun. 👾”_

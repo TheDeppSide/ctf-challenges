@@ -65,7 +65,7 @@ Then connect via browser / netcat depending on the challenge instructions.
 - 👨‍🎓 Bachelor student in Computer Engineering @ Politecnico di Torino  
 - 🔐 Member of **Pwnthem0le** CTF team  
 - 🐙 GitHub: [Depp1135](https://github.com/thedeppside)  
-- 💼 LinkedIn: *[Antonio Galasso](www.linkedin.com/in/antonio-galasso-45394b35b)*  
+- 💼 LinkedIn: *[Antonio Galasso](https://www.linkedin.com/in/antonio-galasso-45394b35b)*  
 
 ---
 
